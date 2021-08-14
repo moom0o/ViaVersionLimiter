@@ -1,0 +1,4 @@
+name: ViaVersionLimiter
+version: ${project.version}
+main: me.moomoo.viaversionlimiter.Main
+api-version: 1.17
